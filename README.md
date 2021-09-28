@@ -6,7 +6,9 @@
 	
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sungwon-097&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sungwon-097&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwon-097&layout=compact&theme=tokyonight)
 
 <!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chung1306)](https://solved.ac/chung1306) -->
 
