@@ -6,7 +6,7 @@
 	
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=Sungwon Choi&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=Sungwon_Choi&height=200&fontSize=100)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sungwon-097&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
