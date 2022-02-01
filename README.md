@@ -11,5 +11,4 @@
 <!-- <div align=center></div> -->
 |-|-|
 |---|---|
-![Sungwon's github stats](https://github-readme-stats.vercel.app/api?username=sungwon-097&show_icons=true&theme=dark&height=200)|
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwon-097&layout=compact&theme=dark&height=200)
+![Sungwon's github stats](https://github-readme-stats.vercel.app/api?username=sungwon-097&show_icons=true&theme=dark&height=200)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwon-097&layout=compact&theme=dark&height=200)
