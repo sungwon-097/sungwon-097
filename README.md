@@ -1,19 +1,17 @@
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=sungwon&fontAlignY=40&fontSize=100&descAlignY=65&animation=twinkling)
+<br />
+
 ### Hi there 👋
+<br />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungwon-097)](https://hits.seeyoufarm.com)
 <br />
 
-<div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=sungwon&fontAlignY=40&fontSize=100&descAlignY=65&animation=twinkling)
-	
-</div> 
-
-
-### Learning 💻
-
+### I'm Learning... 💻
 <br />
-<div align=center>
 	
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -30,13 +28,9 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br />
-	
-</div>	
 
-### Stats 📈
-
+### My Stats 📈
 <br />
-<div align=center>
 
 |![Sungwon's github stats](https://github-readme-stats.vercel.app/api?username=sungwon-097&show_icons=true&theme=dark&height=200)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwon-097&layout=compact&theme=dark&height=150)|
 |-|-|
